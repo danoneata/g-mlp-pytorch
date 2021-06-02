@@ -15,8 +15,8 @@ setup(
     'multi-layered-preceptrons'
   ],
   install_requires=[
-    'einops>=0.3',
-    'torch>=1.6'
+    'einops',
+    'torch'
   ],
   classifiers=[
     'Development Status :: 4 - Beta',
