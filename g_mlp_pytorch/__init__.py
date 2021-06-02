@@ -1,1 +1,8 @@
-from g_mlp_pytorch.g_mlp_pytorch import gMLP, gMLPVision, gMLPBlock, SpatialGatingUnit
+from g_mlp_pytorch.g_mlp_pytorch import (
+    gMLP,
+    gMLPVision,
+    gMLPBlock,
+    SpatialGatingUnit,
+    Residual,
+    PreNorm,
+)
